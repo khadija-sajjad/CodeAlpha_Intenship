@@ -23,4 +23,4 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | BeautifulSoup | GitHub
 ## 👩‍💻 About Me
 **Khadija Sajjad** — Data Analytics Intern at CodeAlpha  
 - 🔗 [GitHub](https://github.com/khadija-sajjad)  
-  
+ - 🔗 [LinkedIn](https://www.linkedin.com/in/khadija-sajjad-0b8a7a355) 
